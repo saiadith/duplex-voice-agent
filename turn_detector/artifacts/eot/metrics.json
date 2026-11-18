@@ -1,0 +1,8 @@
+{
+  "val_auroc": 0.9629983621760462,
+  "val_acc": 0.9083978373332297,
+  "n_train": 494108,
+  "n_val": 25709,
+  "base": "nreimers/MiniLM-L6-H384-uncased",
+  "train_s": 786.1449074745178
+}
